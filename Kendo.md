@@ -13,7 +13,7 @@ The Kendo UI Grid widget is a powerful control for displaying data in a tabular 
 
 
 
-### []()
+### [Format date time](http://www.telerik.com/forums/date-time-in-kendo-grid)
 ### []()
 ### []()
 ### []()
